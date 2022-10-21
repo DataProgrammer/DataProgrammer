@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-<img align = "right" width = "250" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align = "right" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="dataprogrammer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataprogrammer" alt="dataprogrammer" /></a> </p>
 
 - 🔭 I’m currently **Actively looking for a data analyst position**
 
